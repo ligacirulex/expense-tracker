@@ -1,7 +1,7 @@
 # Projekta plāns — Izdevumu izsekotājs (CLI)
 
 ## A. Programmas apraksts
-Izdevumu izsekotājs ir komandrindas Python lietojums, kas ļauj reģistrēt ikdienas izdevumus, skatīt tos sarakstā, filtrēt pēc mēneša, dzēst ierakstus, redzēt kopsavilkumu pa kategorijām un eksportēt datus CSV failā. Visi dati tiek saglabāti JSON failā starp programmas palaišanām.
+Izdevumu izsekotājs ir komandrindas Python lietojums, kas ļauj reģistrēt ikdienas izdevumus, skatīt tos sarakstā, filtrēt pēc mēneša, dzēst ierakstus, redzēt kopsavilkumu pa kategorijām un eksportēt datus CSV failā. Visi dati tiek saglabāti JSON failā starp programmas palaišanām. Python programmēšanas valodā.
 
 ## B. Datu struktūra
 Viens izdevuma ieraksts tiek glabāts kā vārdnīca:
