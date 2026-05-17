@@ -29,4 +29,4 @@ Nepieciešams Python 3.10+.
 Dati tiek glabāti failā `expense_tracker/expenses.json`.
 
 ## Autors
-Līga — Programmēšanas pamati, 2026
+Līga Cīrule — Programmēšanas pamati un algoritmizācija, 2026
