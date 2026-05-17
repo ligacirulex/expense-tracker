@@ -5,7 +5,7 @@ Vienkāršs Python komandrindas lietojums ikdienas izdevumu uzskaitei. Programma
 ## Uzstādīšana
 
 1. Klonē repozitoriju:
-   git clone https://github.com/tavs-lietotajvards/expense-tracker.git
+   git clone https://github.com/ligacirulex/expense-tracker.git
 
 2. Ieiet mapē:
    cd expense-tracker
@@ -29,4 +29,4 @@ Nepieciešams Python 3.10+.
 Dati tiek glabāti failā `expense_tracker/expenses.json`.
 
 ## Autors
-Līga — Programmēšanas pamati, 2025
+Līga — Programmēšanas pamati, 2026
